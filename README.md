@@ -22,6 +22,6 @@ The purpose of this dashboard is to:
 | **Power Query**  | Data cleaning and transformation             |
 | **AdventureWorksDW** | Sample business database used for analysis |
 
----
 
-> 📌 For more details, visual examples, and calculated measures, refer to the full project dashboard (`.pbix`) and additional visuals included in this repository.
+
+> 📌Screenshot of Dashboard: https://github.com/thedhruvilbhatt/Adventure-Works---Power-BI-Dashboard/blob/main/Adventure%20Works%20PowerBI%20Dashboard.png
