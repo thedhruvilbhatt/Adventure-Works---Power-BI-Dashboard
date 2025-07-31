@@ -24,4 +24,5 @@ The purpose of this dashboard is to:
 
 
 
-> 📌Screenshot of Dashboard: https://github.com/thedhruvilbhatt/Adventure-Works---Power-BI-Dashboard/blob/main/Adventure%20Works%20PowerBI%20Dashboard.png
+> 📌Screenshot of Dashboard:
+> https://github.com/thedhruvilbhatt/Adventure-Works---Power-BI-Dashboard/blob/main/Adventure%20Works%20PowerBI%20Dashboard.png
